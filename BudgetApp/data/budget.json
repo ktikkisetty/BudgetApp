@@ -1,0 +1,16 @@
+{
+    "income": 3000,
+    "budget name": "My budget",
+    "budget": [
+        {
+            "cost": 1000,
+            "name": "rent",
+            "category": "fixed"
+        },
+        {
+            "cost": 240,
+            "name": "restaurant",
+            "category": "flexible"
+        }
+    ]
+}

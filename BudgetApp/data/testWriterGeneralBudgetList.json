@@ -1,0 +1,21 @@
+{
+    "income": 2000,
+    "budget name": "My general budget",
+    "budget": [
+        {
+            "cost": 1000,
+            "name": "rent",
+            "category": "fixed"
+        },
+        {
+            "cost": 100,
+            "name": "cell",
+            "category": "fixed"
+        },
+        {
+            "cost": 200,
+            "name": "savings",
+            "category": "flexible"
+        }
+    ]
+}
